@@ -1,0 +1,25 @@
+Nov 29, 2023 11:17:05 PM fabric.app.server.Server validateArguments
+FINE: Attempting to Startup Server
+Nov 29, 2023 11:17:06 PM fabric.app.server.Server validateArguments
+INFO: Parameters Given: [10000, 4, passFile.txt]
+Nov 29, 2023 11:17:06 PM fabric.app.server.Server validateArguments
+FINE: Attempting to Parse Parameters.
+Nov 29, 2023 11:17:06 PM fabric.app.server.Server main
+FINE: Attempting to Open Password File
+Nov 29, 2023 11:17:06 PM fabric.app.server.Server readPassFile
+INFO: Password File: passFile.txt
+Nov 29, 2023 11:17:06 PM fabric.app.server.Server readPassFile
+FINE: Attempting to validate Password File Entries
+Nov 29, 2023 11:17:06 PM fabric.app.server.Server readPassFile
+FINE: Reading in Entries from File...
+Nov 29, 2023 11:17:06 PM fabric.app.server.Server readPassFile
+FINE: hartd:HKMTO
+ is valid. Adding to mapping table
+Nov 29, 2023 11:17:06 PM fabric.app.server.Server addEntry
+INFO: Adding hartd to known users
+Nov 29, 2023 11:17:06 PM fabric.app.server.Server main
+FINE: Attempting to Open ServerSocket for listening on port 10000
+Nov 29, 2023 11:17:06 PM fabric.app.server.Server main
+INFO: Fabric Server Created Successfully. Creating Thread pool of 4 Threads.
+Nov 29, 2023 11:17:06 PM fabric.app.server.Server main
+INFO: Attempting to create Stitch Server

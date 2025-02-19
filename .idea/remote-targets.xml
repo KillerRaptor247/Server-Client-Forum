@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="hartd@fire.ecs.baylor.edu:22" type="ssh/sftp" uuid="5f1c1d9f-a0c4-481a-8036-9f2b622a4b2a">
+        <config>
+          <option name="projectRootOnTarget" value="/home/csi/h/hartd/Prog0" />
+          <option name="serverName" value="hartd@fire.ecs.baylor.edu:22 password" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="homePath" value="Currently Loaded Modulefiles:   1) java/jdk-20           2) python/python-3.9.0 " />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
